@@ -1,0 +1,75 @@
+<resources>
+
+    <string name="app_name">BEACON</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_create">Create</string>
+    <string name="text_view">textView</string>
+    <string name="describe_text">event information will preview here. for more information ask froyo</string>
+    <string name="event_tab">Event</string>
+    <string name="category_tab">Category</string>
+    <string name="starred_tab">Starred</string>
+    <string name="account_tab">Account</string>
+    <string name="search_menu">Search</string>
+    <string name="stat_menu">Stat</string>
+    <string name="setting_menu">Setting</string>
+    <string name="logout_menu">Log out</string>
+    <string name="id_message">Student ID</string>
+    <string name="fullname_message">Fullname</string>
+    <string name="firstname_message">Firstname</string>
+    <string name="surname_message">Surname</string>
+    <string name="email_message">E-mail Address</string>
+    <string name="password_message">Password</string>
+    <string name="status_message">Status</string>
+    <string name="your_event_message">Your Events</string>
+    <string name="nearby_event_message">Nearby Events</string>
+    <string name="event_name_message">Event Name</string>
+    <string name="event_desc_message">Event Desc</string>
+    <string name="event_time_message">at time</string>
+    <string name="event_place_message">at place</string>
+    <string name="org_message">Organization</string>
+    <string name="org_email_message">Organization\'s Email Address</string>
+    <string name="org_phone_message">Organization\'s Phone Number</string>
+    <string name="org_parent_message">Parent Organization</string>
+    <string name="error_password">Incorrect email address or password. ATTEMPTS REMAIN : </string>
+    <string name="login_button">Login</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="edit_profile_button">Edit Profile</string>
+    <string name="edit_event_button">Edit Event</string>
+    <string name="delete_event_button">Delete Event</string>
+    <string name="apply_button">Apply</string>
+    <string name="download_PDF_message">Download PDF File</string>
+    <string name="register_title">REGISTER</string>
+    <string name="forgot_password_text_button">FORGOT PASSWORD</string>
+    <string name="reset_password_title">RESET PASSWORD</string>
+    <string name="reset_password_message">Password Reset Send</string>
+    <string name="reset_password_button">Reset</string>
+    <string name="cancel_reset_password_button">Cancel</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="more_title">More</string>
+    <string name="image_button_exit_message">Exit</string>
+    <string name="event_created">Event Created</string>
+    <string name="title_activity_dummy">dummy</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="update">Update</string>
+    <string name="lorem">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+		In mollis est vitae erat laoreet consectetur. Mauris dui mauris,
+		dictum vel egestas vel, porta sed ante. Phasellus congue viverra ipsum,
+		in elementum arcu ultricies nec.Morbi tincidunt nisl lacinia, placerat nisi eget, luctus tortor.
+		Morbi efficitur dictum leo, sit amet volutpat lorem sodales nec. Quisque et erat et turpis fringilla condimentum.
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor vulputate libero vitae iaculis.
+		Curabitur id blandit quam. Praesent massa ante, pulvinar vitae sagittis commodo, scelerisque porttitor eros.
+		Mauris suscipit a enim nec congue. Mauris tristique cursus aliquet. Nunc quis hendrerit nunc. Praesent tristique tellus purus,
+		a pretium ex gravida id. Cras laoreet malesuada nulla, at bibendum metus ultricies a. Fusce eu ornare arcu. Proin ut molestie est.
+		Vestibulum quis vehicula erat. Nam sed tempus nibh. Sed tortor ante, maximus venenatis odio sed, ultricies maximus lectus.
+		Aliquam sed volutpat ligula. Integer bibendum, magna ac lacinia suscipit,
+		risus libero rutrum justo, sed tempus augue tellus eget est. Curabitur convallis augue nisl,
+		id efficitur urna posuere faucibus. Ut sed egestas nulla, eu finibus metus. Nunc a arcu ante.
+		Aenean ullamcorper dolor non condimentum congue. Aenean mauris nunc, pellentesque at placerat vitae,
+		aliquet quis orci. Curabitur maximus augue ut bibendum sagittis.
+	</string>
+    <string name="not_support_bluetooth_msg">This device does not support bluetooth</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FCF3CE</color>
+    <color name="colorPrimaryDark">#FDF0B7</color>
+    <color name="colorPrimaryLight">#FDF6D9</color>
+    <color name="colorAccent">#ef5d2f</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparentBlack">#44000000</color>
+    <color name="transparentWhite">#CCFFFFFF</color>
+    <color name="transparentCream">#CCFCF3CE</color>
+    <color name="superTransparent">#00000000</color>
+    <color name="cream">#FCF3CE</color>
+
+</resources>
